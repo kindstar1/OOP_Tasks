@@ -52,11 +52,3 @@ get_shop_list_by_dishes(["Омлет", "Омлет"], 2)
 print()
 get_shop_list_by_dishes(["Утка по-пекински", "Омлет", "Запеченный картофель"], 2)
 
-{
-    "Картофель": {"measure": "кг", "quantity": 2},
-    "Молоко": {"measure": "мл", "quantity": 200},
-    "Помидор": {"measure": "шт", "quantity": 4},
-    "Сыр гауда": {"measure": "г", "quantity": 200},
-    "Яйцо": {"measure": "шт", "quantity": 4},
-    "Чеснок": {"measure": "зубч", "quantity": 6},
-}
